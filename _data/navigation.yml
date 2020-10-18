@@ -4,6 +4,8 @@ main:
     url: /categories/
   - title: "Years"
     url: /years/
+  - title: "tags"
+    url: /tags/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
