@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Soom's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "잊지 말고 앞으로" # site tagline that appears below site title in masthead
 name                     : "Soomin Hwang"
 description              : "An amazing website."
 url                      : "https://smhwang0109.github.io"
