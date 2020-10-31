@@ -6,3 +6,11 @@ main:
     url: /years/
   - title: "tags"
     url: /tags/
+
+docs:
+  - title: "Backend"
+    children:
+      - title: "Django"
+        url: /categories/django/
+      - title: "Flask"
+        url: /categories/flask/
