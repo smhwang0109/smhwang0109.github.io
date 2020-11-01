@@ -14,3 +14,11 @@ docs:
         url: /categories/django/
       - title: "Flask"
         url: /categories/flask/
+  - title: "Algorithm"
+    children:
+      - title: "백준"
+        url: /categories/baekjoon/
+      - title: "SWEA"
+        url: /categories/swea/
+      - title: "Programmers"
+        url: /categories/programmers/
