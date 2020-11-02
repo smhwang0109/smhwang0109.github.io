@@ -22,3 +22,11 @@ docs:
         url: /categories/swea/
       - title: "Programmers"
         url: /categories/programmers/
+  - title: "Language"
+    children:
+      - title: "Python"
+        url: /categories/python/
+      - title: "Java"
+        url: /categories/java/
+      - title: "JavaScript"
+        url: /categories/javascript/
