@@ -8,6 +8,10 @@ main:
     url: /tags/
 
 docs:
+  - title: "Computer Science"
+    children:
+      - title: "OS"
+        url: /categories/os/
   - title: "Backend"
     children:
       - title: "Django"
