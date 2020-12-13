@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Soom's Blog"
+title                    : "Soomin's Blog"
 title_separator          : "-"
-subtitle                 : "잊지 말고 앞으로" # site tagline that appears below site title in masthead
+subtitle                 : "잊지 말고, 앞으로" # site tagline that appears below site title in masthead
 name                     : "Soomin Hwang"
-description              : "An amazing website."
+description              : "Soomin's Blog"
 url                      : "https://smhwang0109.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smhwang0109/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Soomin Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "안녕하세요. 황수민입니다"
   location         : "대한민국 서울특별시"
   email            :
   links:
